@@ -1,9 +1,11 @@
 Lifeshot
 
-**Restore Photos and Videos**
-- Adding Photos
- -* Geswindt
- -* Jacobs
+This is a Life/Photography website
+
+**Update Website**
+- Lifeshot - JD
+ -* New Webpage
+ -* Make sure is not for Mobile Devices
 
 URL - https://benzito1590.github.io/Lifeshot/
  
