@@ -4,8 +4,11 @@ This is a Life/Photography website
 
 **Update Website**
 - Lifeshot - JD
- -* New Webpage
- -* Make sure is not for Mobile Devices
+ -* Add Photos
+
+- Lifeshot - RJ
+ -* New Page
+   -Add Photos
 
 URL - https://benzito1590.github.io/Lifeshot/
  
