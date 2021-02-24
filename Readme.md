@@ -6,7 +6,7 @@ This is a Life/Photography website
 - Lifeshot - JD
  -* Add Photos
 
-- Lifeshot - RJ
+- Lifeshot - LK
  -* New Page
    -Add Photos
 
