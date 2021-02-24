@@ -10,7 +10,7 @@ This is a Life/Photography website
  -* New Page
    -Add Photos
 
-URL - https://benzito1590.github.io/Lifeshot/
+URL - https://benzito1590.github.io/Lifeshot1/
  
 Copyright ©2021 All rights reserved | This Website is made with [Heart] by Benzito Bezuidenhout.
 
